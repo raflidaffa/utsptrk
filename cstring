@@ -6,7 +6,7 @@ contoh deklarasi dan inisialisasi cstring
 using namespace std;
 
 int main(){
-  char nama[15] = "rizki";
+  char nama[15] = "rafli";
   char prodi[] = "ilkom";
   
   cout << nama << endl;
